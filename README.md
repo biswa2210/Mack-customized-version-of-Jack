@@ -37,8 +37,13 @@ I have made this so that I can easily work with applications.
 
 ```bash
 MACK-VIRTUAL-ASSISTANT
-    ├── scorecard.txt
-    └── mp3 songs
+    ├── BANK.exe
+    ├── Rb.exe
+    ├── SCHOOL.exe
+    ├── mack.cpp
+    ├── mack.exe
+    ├── mack.o
+    └── snake.exe
 ```
     
 ## Screenshots :point_down: 
