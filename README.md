@@ -20,7 +20,7 @@
 
 <div align="justified">
     
-MACK is a virtual assistant. It takes user whatever user wants to open like google, you tube, system realted applications etc. It is a customized and updated version of JACK.
+MACK is a virtual assistant. It takes user whatever user wants to open like google, you tube, system realted applications etc. It is a customized and updated version of JACK. It can check even odd, prime, palindrome, fibonacci etc numbers in range or normally it can check.
  
 </div>
 
@@ -50,7 +50,21 @@ MACK-VIRTUAL-ASSISTANT
 
 <div align="center">
     
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="mack1.png"><img src="mack1.png" width="800" height= "380"></a> 
+    
+<a href="mack2.png"><img src="mack2.png" width="800" height= "380"></a> 
+    
+<a href="mack3.png"><img src="mack3.png" width="800" height= "380"></a> 
+    
+<a href="mack4.png"><img src="mack4.png" width="800" height= "380"></a> 
+    
+<a href="mack5.png"><img src="mack5.png" width="800" height= "380"></a> 
+    
+<a href="mack6.png"><img src="mack6.png" width="800" height= "380"></a> 
+    
+<a href="mack7.png"><img src="mack7.png" width="800" height= "380"></a> 
+    
+<a href="mack8.png"><img src="mack8.png" width="800" height= "380"></a> 
 
 </div>
 
