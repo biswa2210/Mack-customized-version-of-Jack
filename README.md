@@ -20,7 +20,7 @@
 
 <div align="justified">
     
-MACK is a virtual assistant. It takes user whatever user wants to open like google, you tube, system realted applications etc. It is a customized and updated version of JACK. It can check even odd, prime, palindrome, fibonacci etc numbers in range or normally it can check.
+MACK is a virtual assistant. It takes user whatever user wants to open like google, you tube, system realted applications etc. It is a customized and updated version of JACK. It can check even odd, prime, palindrome, fibonacci etc numbers in range or normally it can check. Mack can take us to my other C applications like student database, bank, restaurant and snake game etc.
  
 </div>
 
