@@ -24,6 +24,10 @@ MACK is a virtual assistant. It takes user whatever user wants to open like goog
  
 </div>
 
+## MACK DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=zTgZ4neZ1Do&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a&index=6">Click here to watch</a>
+
+## C and C++ PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=m5VnSust32E&list=PL0lbDlMJ1h4g3cSTY44VyQ4Z-5L4kbo2a">Click here to watch</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
